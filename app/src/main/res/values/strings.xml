@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">abcd.cat</string>
+    <string name="hello_again_string">Hola de nou!</string>
+    <string name="goto_login_string">💪 Inicia sessió</string>
+    <string name="title_emojis_string">🚀🚀</string>
+    <string name="next_question_string">🔥 Següent pregunta 🔥</string>
+    <string name="question_emojis_string">🧐🤔🤨</string>
+    <string name="about_string">Dissenyat pel Corona-Team durant la Hackovid</string>
+    <string name="info_string">👀 Què és abcd.cat?</string>
+    <string name="wrong_answer_emojis_string">😱🤯😿</string>
+    <string name="info_long_string">✌ abcd.cat és una app dissenyada durant la Hackovid per resoldre el fet que molts estudiants no es troben motivats per estudiar. 😴\n\n\🔥 Mitjançant tests i competint en un ranking global es poden aprendre tota mena de matèries de manera ràpida i senzilla. 🙈\n\n\💥 Pots començar practicant amb el test d\'exemple per aprendre anglès! 😺\n\n\👽 Si t\'animes, pots crear els teus propis tests perquè altres practiquin! 🤪</string>
+    <string name="ranking_string">🏆 Ranking</string>
+    <string name="select_category_string">Selecciona una categoria:</string>
+    <string name="languages_string">Idiomes</string>
+    <string name="science_string">Ciència</string>
+    <string name="history_string">Història</string>
+    <string name="sports_string">Esports</string>
+    <string name="geography_string">Geografia</string>
+    <string name="general_culture_string">Cultura general</string>
+    <string name="economy_string">Economia</string>
+    <string name="maths_string">Matemàtiques</string>
+    <string name="others_string">Altres</string>
+    <string name="example_string">Test d\'anglès</string>
+    <string name="where_to_start_string">No saps per on començar?\nProva amb el test d\'anglès!</string>
+    <string name="correct_answer_emojis_string">🔥🤩🙈</string>
+    <string name="correct_answer_string">Resposta correcta!</string>
+    <string name="incorrect_answer_string">Resposta incorrecta!</string>
+    <string name="one_point_string">1 punt</string>
+    <string name="login_instructions_string">📱 Per iniciar sessió, escriu el teu número de mòbil 📱\🛸 nT\'enviarem un codi de 6 xifres per SMS 🛸</string>
+    <string name="verification_code_string">📱 Escriu el codi de 6 xifres que has rebut per SMS: 📱</string>
+    <string name="confirm_code_string">🤩 Confirma el codi</string>
+    <string name="resend_code_string">🤯 Reenvia el codi</string>
+    <string name="wrong_telephone_string">🥺 Número de mòbil incorrecte 🥺</string>
+    <string name="quota_exceded_string">💩 Has sol·licitat el codi massa vegades. Torna a intentar-ho en una estona 💩</string>
+    <string name="code_sent_string">💥 Codi enviat 💥</string>
+    <string name="verification_failed_string">🙀 L\'autenticació ha fallat 🙀</string>
+    <string name="verification_succesful_string">🙊 T\'has autenticat correctament 🙊</string>
+    <string name="signed_in_failed_string">😣 No s\'ha pogut iniciar sessió 😣</string>
+    <string name="signed_in_string">🔥 Has iniciat sessió</string>
+    <string name="signed_out_string">😿 Has tancat la sessió</string>
+    <string name="invalid_code_string">😕 Codi incorrecte 😕</string>
+    <string name="database_connection_error_string">S\'ha produït un error durant la connexió amb la base de dades</string>
+    <string name="user_info_string">"El teu nom d\'usuari és %1$s, amb sessió iniciada amb el número de telèfon %2$s.\n\nTens un total de %3$s punts.\n\nEt trobes en la posició %4$s del ranking."</string>
+    <string name="back_string">Tornar</string>
+    <string name="perform_logout_string">Tancar la sessió 🤞</string>
+    <string name="logout_string">Tanca la sessió</string>
+    <string name="sure_logout_string">Estàs segur que vols tancar la sessió? 😢</string>
+    <string name="points_string">punts</string>
+    <string name="choose_username_emojis_string">👽👽</string>
+    <string name="choose_username_string">Escolleix un nom d\'usuari:</string>
+    <string name="confirm_string">👾 Confirma</string>
+    <string name="loading_string">🧠 Carregant...</string>
+    <string name="no_internet_title_string">Sense connexió a Internet 🔌</string>
+    <string name="internet_connection_string">Es requereix una connexió a Internet per poder accedir a la app 📡</string>
+    <string name="add_test_string">🕹 Afegeix test</string>
+    <string name="example_test_string">Test d\'exemple</string>
+    <string name="not_add_test_string">Has de tenir un mínim de 1000 punts o ser administrador per poder afegir tests</string>
+    <string name="no_tests_string">No hi ha tests d\'aquesta categoria</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>

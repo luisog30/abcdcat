@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1081499600934",
+    "firebase_url": "https://abcd-cat.firebaseio.com",
+    "project_id": "abcd-cat",
+    "storage_bucket": "abcd-cat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081499600934:android:5a876374eb6210bd25bee7",
+        "android_client_info": {
+          "package_name": "com.luisog30.abcdcat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081499600934-5o0fksg7mrvhdj40h5tn4vkdii1umvaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTGNuQ86Yq3gJA6DI1P-fuf4OFTuq8yWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081499600934-5o0fksg7mrvhdj40h5tn4vkdii1umvaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
