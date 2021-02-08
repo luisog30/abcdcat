@@ -1,4 +1,4 @@
-# abdcat
+# abcd.cat
  Repositori oficial de l'app abcd.cat creada durant la Hackovid
 
 Explicació per a la ciutadania:
